@@ -111,3 +111,5 @@ if __name__ == "__main__":
         for i in top_k:
             print(labels[i], results[i])
         print('\n\n')
+
+        os.remove(snapshot_path)
