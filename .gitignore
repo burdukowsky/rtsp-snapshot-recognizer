@@ -113,4 +113,5 @@ venv.bak/
 *.sublime-workspace
 
 # Project ignores
-output/
+snapshots/
+network/
